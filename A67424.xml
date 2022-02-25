@@ -1,0 +1,904 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London's armory accuratly delineated in a graphical display of all the arms crests supportes mantles &amp; mottos of every distinct company and corporate societie in the honourable city of London as they truly bear them faithfully collected from their severall patents which have been approved and confirmed by divers kings at arms in their visitations a work never till now exactly perfected or truly published by any and with rectisy many essentiall mistakes and manifest absurdities committed in painting &amp; carving.</title>
+            <author>Wallis, Richard, b. ca. 1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67424</idno>
+            <idno type="STC">Wing W620</idno>
+            <idno type="STC">ESTC R9805</idno>
+            <idno type="EEBO-CITATION">13545666</idno>
+            <idno type="OCLC">ocm 13545666</idno>
+            <idno type="VID">100124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 480:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London's armory accuratly delineated in a graphical display of all the arms crests supportes mantles &amp; mottos of every distinct company and corporate societie in the honourable city of London as they truly bear them faithfully collected from their severall patents which have been approved and confirmed by divers kings at arms in their visitations a work never till now exactly perfected or truly published by any and with rectisy many essentiall mistakes and manifest absurdities committed in painting &amp; carving.</title>
+                  <author>Wallis, Richard, b. ca. 1643.</author>
+               </titleStmt>
+               <extent>[3] p., [27] : plates  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author Rich Wallis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved t.p. with added engraved t.p.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heraldry --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:100124:1"/>
+            <p>
+               <figure>
+                  <head>To S<hi rend="sup">r</hi>. John. Frederick K<hi rend="sup">t</hi>, &amp; Alderman London's Armory is dedicated &amp; Preſented by your Worsh<hi rend="sup">s</hi>: hum<hi rend="sup">b</hi>: ſerv<hi rend="sup">t</hi>. Rich<hi rend="sup">d</hi> Wallis</head>
+                  <figDesc>blazon of Sir John Frederick, surrounded by a decorative border</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="engraved_title_page">
+            <pb facs="tcp:100124:2"/>
+            <figure>
+               <figDesc>engraved title page embellished with numerous coats of arms and mythical figures</figDesc>
+            </figure>
+            <p>London's Armory Accuratly delineated in a Graphical dis<g ref="char:EOLunhyphen"/>play of all the Arms Crests Supporters Mantles &amp; Mottos of every diſtinct Company and Cor<g ref="char:EOLunhyphen"/>porate Societie in the Honourable City of London as they truly bear them faithfully Collected from their ſeverall Patents which have been approved and Confirmed by Divers Kings at Arms in their Viſitations A Work never till now exactly perfected or truly Published by any and will rectify many eſſentiall Miſtakes and manifeſt Absurd<g ref="char:EOLhyphen"/>ities Committed in Painting &amp; Carving</p>
+            <p>
+               <hi>London</hi> Printed for the Author Rich Wallis Citizen &amp; Arms painter of London &amp; are to be sold by him at his Shop against y<hi rend="sup">e</hi> Royall Exchange 1677</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:100124:3"/>
+            <p>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>English royal blazon, surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:100124:4"/>
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <signed>CHARLES The Second, by the Grace of God King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</signed>
+               <salute>To all our Loving Subjects of what Degree, Condition, and Quality ſoever, within Our Kingdoms and Dominions, Greeting.</salute>
+            </opener>
+            <p>Whereas We have been given to Underſtand, That Our Truſty and Well-beloved Subject <hi>Richard Wallis,</hi> Arms-Painter in Our City of <hi>London,</hi> hath with much Pains and Charge En<g ref="char:EOLhyphen"/>deavoured to attain a Perfect and General Collection of the Arms proper to every Society or Corporation within Our ſaid City, and hath at length Finiſhed the ſame after a moſt exact and curious manner; And the ſaid <hi>Richard Wallis</hi> having humbly beſought Us to Grant him a Pri<g ref="char:EOLhyphen"/>viledg for the ſole Printing of his ſaid Book; We have thought fit for his Encouragement to gra<g ref="char:EOLhyphen"/>tifie him therein. Know Ye therefore, That it is Our Royal Pleaſure, and We do by theſe preſents not only give him the ſaid <hi>Richard Wallis</hi> full Leave, Licence, and Authority to Print the ſaid Book; But ſtrictly Charge, Prohibite, and Forbid all Our Subjects to Reprint within any Our Kingdoms the ſaid Book in any Volume, or any part thereof, or to Import, Buy, Vend, Utter, or Diſtribute any Copies or Exemplaries of the ſame, Reprinted beyond the Seas, with<g ref="char:EOLhyphen"/>in the term of Fifteen Years, next enſuing the Publiſhing hereof, without the Conſent and Ap<g ref="char:EOLhyphen"/>probation of the ſaid <hi>Richard Wallis,</hi> his Heirs, Executors or Aſſigns; as they, and every of them ſo Offending will anſwer the contrary; not only by the Forfeiture of the ſaid Books, Copies, or Exemplaries, but at their Utmoſt Peril: Whereof as well the Wardens and Company of <hi>Stationers</hi> of Our City of <hi>London,</hi> as all and ſingular Our Officers of the Cuſtoms in this Port of <hi>London,</hi> or any other Place within Our Dominions, and all other Our Officers and Miniſters whom it may concern, are to take particular Notice, that due Obſervance be given to this Our Royal Command.</p>
+            <closer>
+               <dateline>Given under Our Signet and Sign Manual, at Our Court at <hi>Whitehall</hi> 
+                  <date>the Twelfth day of <hi>May</hi> 1677. in the Nine and Twentieth Year of Our Reign.</date>
+               </dateline>
+               <signed>By His Majeſties Command. <hi>Joſeph Williamſon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100124:5"/>
+            <head>TO THE Right Honourable Sir <hi>THOMAS DAVIES</hi> Kt. Lord Mayor of the City of <hi>London;</hi> AND To all the Right Worſhipful Society of Senatours his Brethren in this Supream, Unparaleld, and Renowned <hi>Metropolis</hi> for Wealth, Beauty, Honour, and Good Government.</head>
+            <opener>
+               <salute>Right Honourable, and Right Worſhipful,</salute>
+            </opener>
+            <p>MIſconception and Erroneous Tradition, which have ſo much perverted and corrupted the radical path and order of Primitive Invention, and almoſt obliterated the true In<g ref="char:EOLhyphen"/>tentions of Antiquity both in Philoſophy and Hiſtory; have alſo in this general In<g ref="char:EOLhyphen"/>fection traduced even Heraldry; witneſs, the manifold Errors and egregious Miſtakes, which by induſtrious Enquiry and ſedulous Search, I have diſcovered in divers of the Companies Eſ<g ref="char:EOLhyphen"/>cutcheons, and Corporations Coats of Arms in this Honourable City of <hi>London,</hi> ſince they were firſt conferred upon them in the gracious Grants of their reſpective Patents under the Great Seals of ſeveral Kings of <hi>England,</hi> committed through the ſtupidity and careleſs performances of divers Artificers, <hi>(viz.)</hi> Painters, Plaiſterers, Gravers, and Carvers; whoſe abſurdities are of late advanced in the moſt eminent and conſpicuous Places of very beautiful and ſtately Struct<g ref="char:EOLhyphen"/>ures: who were firſt of all unadviſedly miſled by putting faith in falſe Copies; ſuch as have been lately, and now are, expoſed to publick Sale in Graving and Printing. Which when I had ſuffi<g ref="char:EOLhyphen"/>ciently conſidered, I was much concerned what diſhonourable reflections it might caſt upon ſo many Worſhipful Companies and Worthy Corporations; and was troubled to think that thoſe Loyal Societies, who have ſo much Truth in their Hearts, ſhould have ſo much Error in their Arms, and began to think of a Reformation, which with much care and coſt I obtained by the conveniency of ſurveying diſtinctly their ancient Patents, wherein I found in what manner the ſeveral Kings of Arms had from time to time given them their Shields, Charge, Creſts, Supporters, and Motto's; which I forthwith Copied for ſome, with the exami<g ref="char:EOLhyphen"/>nation of Ancient Records for others: and reduced them to truth and order; in the exact<g ref="char:EOLhyphen"/>neſs of Draught and curioſity of Sculpture; So large, that a judicious Eye with pleaſure may be<g ref="char:EOLhyphen"/>hold them; So true to the Rules of Dimenſion, Proportion, Correlation, Poſition, Poſture, and Symmetry, that now they will endure the moſt curious examinations of the Niceſt Criticks, and conſequently prove and continue authentick Copies for Futurity; and alſo be a likely means to ſuppreſs and annihilate all thoſe erroneous Draughts that have miſguided the over-credulous Imi<g ref="char:EOLhyphen"/>tators. And having with great Charge and Labour thus finiſht this my Undertaking, and knowing how much your Lordſhip and Ye his Brethren concern your ſelves in Advancing and Rewarding all Endeavours for the preſervation of the Honour of this Famous City, and the ſeveral Societies and Corporations thereof; I cannot but promiſe my ſelf that this my Work will be graciouſly received and entertained by ſuch Indulgent Patrous, and accordingly be eſteemed and valued by the ſeveral Societies and Corporations; to whom, as I have hereby endeavoured to expreſs my Zeal for their Service, ſo I ſhall make it the buſineſs of my Life to approve my ſelf</p>
+            <closer>
+               <signed>Your Lordſhips and Worſhips Moſt Humble, and Moſt Faithful Servant <hi>Richard Wallis.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:100124:6"/>
+            <head>The Preface.</head>
+            <p>HAving deſigned nothing to my ſelf in this Work, but the advancement of Truth and diſcouragement of Falſhood; and particularly with reſpect to thoſe Worſhipful Soci<g ref="char:EOLhyphen"/>eties and Corporations, that have too long ſuffered thereby in their Coats of Arms. I ſhall not uſe any artifice to gain the approbation of Generous Judgments, Accurate Artiſts, and Curious Diſquiſitors, to whom I leave it to certifie their enquiries by compariſon. The turning over the leaves of this little Volume of Variety proves not only profitable to the Judicious Artiſts, but alſo delightful to all thoſe Perſons of Qualitie, who ſometimes are pleaſed to advance Heraldry into the honour of their Recreations; which indeed is a Contemplation full of pleaſing diverſities, and agreable to every Noble and Generous Diſpoſition; being in ſubſtance the moſt refined part of Natural Philoſophy, while it aſſumeth alſo the principles of Geometry, by putting into uſe almoſt every Square Angle and Circle. Theſe Sheets being orderly fixt upon fine Canvaſs, and well framed, may prove Ornamental, when placed in any Magnificent Hall, Gallery, or Beau<g ref="char:EOLhyphen"/>tiful Dining-Room, where the Inquiſitive Spectators may be pleaſantly entertained with making delightful Compariſons between the Aptitude of the Arms to the Amplitude of any Trade, Science, Art, Myſtery, Occupation, contained in the Table, of which there are ſeveral Additional Coats of Companies and Societies that never were yet Engraved or expo<g ref="char:EOLhyphen"/>ſed until this preſent, and were the occaſion of much induſtry and expence in their At<g ref="char:EOLhyphen"/>chievment; beſides the patient examinations and careful corrections of all thoſe that have been Publiſhed, which were Erroneous either in Omiſſion, Addition, or Tranſverſion; although (it may be) they were honeſtly deſigned with good and true Intentions. Which is all I ſhall ſay for the Augmentative and Corrective part of this Work. For Deſign I ſhall refer my ſelf to thoſe numerous compartiments, whoſe Order and Beauty ſupply the defect of Supporters, which are adapted to their reſpective Coats of Arms, and diverſified from each other. In a word, If the Generous and Judicious are pleaſed with this that I have done, I have no further Ambition; If Artificers will think fit by theſe Copies to rectifie their miſtakes, and Criticks not be too raſh in charging me with new ones, I am well contented; And after all my expence and labour, if I can but be a Saver, I ſhall acknowledg my ſelf abundantly rewarded, Publick Benefit having been the ſole end propoſed to my ſelf herein, as it ſhall be ever the Aim of</p>
+            <closer>
+               <signed>Richard Wallis.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:100124:7"/>
+            <p>
+               <figure>
+                  <q xml:lang="lat">DOMINE DIRIGE NOS</q>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="coat_of_arms_of_the_City_of_London">
+            <pb facs="tcp:100124:8"/>
+            <p>
+               <figure>
+                  <head>THE MERCERS</head>
+                  <q xml:lang="lat">HONOR DEO</q>
+                  <figDesc>blazon of the Worshipful Company of Mercers, depicting the Mercers' Maiden</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE DRAPERS</head>
+                  <q>VNTO GOD ONLY BE HONOR AND GLORY</q>
+                  <figDesc>blazon of the Worshipful Company of Drapers'</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE GROCERS</head>
+                  <q>GOD GRANT GRACE</q>
+                  <figDesc>blazon of the Worshipful Company of Grocers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE FISHMONGERS</head>
+                  <q>ALL WORSHIP TO GOD ONLY</q>
+                  <figDesc>blazon of the Worshipful Company of Fishmongers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:9"/>
+            <p>
+               <figure>
+                  <head>THE GOLDSMITHS</head>
+                  <q xml:lang="lat">IUSTITIA VIRTVTEM REGINA</q>
+                  <figDesc>blazon of the Worshipful Company of Goldsmiths</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE MERCHANT-TAYLORS</head>
+                  <q>CONCORDIA PARUAE RES CRESCUNT</q>
+                  <figDesc>blazon of the Worshipful Company of Merchant Taylors</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE SKINNERS</head>
+                  <q>TO GOD ONLY BE ALL GLORY</q>
+                  <figDesc>blazon of the Worshipful Company of Skinners</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE HABERDASHERS</head>
+                  <q>SERUE AND OBAY</q>
+                  <figDesc>blazon of the Worshipful Company of Haberdashers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:10"/>
+            <p>
+               <figure>
+                  <head>THE SALTERS</head>
+                  <q xml:lang="lat">SAL SAPIT OMNIA</q>
+                  <figDesc>blazon of the Worshipful Company of Salters</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE VINTENERS</head>
+                  <figDesc>blazon of the Worshipful Company of Vintners</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE IRONMONGERS</head>
+                  <q>GOD IS OVR STRENGHT</q>
+                  <figDesc>blazon of the Worshipful Company of Ironmongers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE CLOTHWORKERS</head>
+                  <q>MY TRVST IS IN GOD ALONE</q>
+                  <figDesc>blazon of the Worshipful Company of Clothworkers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:11"/>
+            <p>
+               <figure>
+                  <head>THE DIERS</head>
+                  <q xml:lang="lat">DA GLORIA DEO</q>
+                  <figDesc>blazon of the Worshipful Company of Dyers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE LEATHERSELLERS</head>
+                  <q xml:lang="lat">SOLI DEO HONOR ET GLORIA</q>
+                  <figDesc>blazon of the Worshipful Company of Leathersellers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE BREWERS</head>
+                  <q>IN GOD IS ALL OVR TRVST</q>
+                  <figDesc>blazon of the Worshipful Company of Brewers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE PEWTERERS</head>
+                  <q>IN GOD IS ALL MY TRVST</q>
+                  <figDesc>blazon of the Worshipful Company of Pewterers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:12"/>
+            <p>
+               <figure>
+                  <head>THE BARBER CHIRVRGIONS</head>
+                  <q xml:lang="lat">DE PRAESCI<g ref="char:EOLhyphen"/>ENTIA DEI</q>
+                  <figDesc>blazon of the Worshipful Company of Surgeons</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE BAKERS</head>
+                  <q>PRAISE GOD FOR ALL</q>
+                  <figDesc>blazon of the Worshipful Company of Bakers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE ARMORERS</head>
+                  <q>MAKE ALL SVRE</q>
+                  <figDesc>blazon of the Worshipful Company of Armourers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE WAXCHANDLERS</head>
+                  <q>TRVTH IS THE LIGHT</q>
+                  <figDesc>blazon of the Worshipful Company of Wax Chandlers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:13"/>
+            <p>
+               <figure>
+                  <head>THE TALLOW-CHANDLERS</head>
+                  <q xml:lang="lat">QVAE ARGUVNTVR A LVMINE MANIFESTANTVR</q>
+                  <figDesc>blazon of the Worshipful Company of Tallow Chandlers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE GIRDLERS</head>
+                  <q>GIVE THANKES TO GOD</q>
+                  <figDesc>blazon of the Worshipful Company of Girdlers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE CVTLERS</head>
+                  <q xml:lang="frm">PAVR PARVENIR A BONNE FOY</q>
+                  <figDesc>blazon of the Worshipful Company of Cutlers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE BVTCHERS</head>
+                  <q xml:lang="lat">OMNIA SVBIECISTI SVB PEDIBVS OVES ET BOVES</q>
+                  <figDesc>blazon of the Worshipful Company of Butchers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:14"/>
+            <p>
+               <figure>
+                  <head>THE SADLERS</head>
+                  <q>HOLD FAST SIT SVRE</q>
+                  <figDesc>blazon of the Worshipful Company of Saddlers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE CORDWAINORS</head>
+                  <figDesc>blazon of the Worshipful Company of Cordwainers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE CARPENTERS</head>
+                  <q>HONOR GOD</q>
+                  <figDesc>blazon of the Worshipful Company of Carpenters</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE PAINTER STAINERS</head>
+                  <q xml:lang="lat">AMOR ET OBEDIENTIA</q>
+                  <figDesc>blazon of the Worshipful Company of Painter-Stainers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:15"/>
+            <p>
+               <figure>
+                  <head>THE CVRRIERS</head>
+                  <q xml:lang="lat">SPES MEA DEVS</q>
+                  <figDesc>blazon of the Worshipful Company of Curriers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE PLVMMERS</head>
+                  <q>IN GOD IS ALL OVR HOPE</q>
+                  <figDesc>blazon of the Worshipful Company of Plumbers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE MASONS</head>
+                  <q>IN THE LORD IS ALL OVR TRVST</q>
+                  <figDesc>blazon of the Worshipful Company of Masons</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE INHOLDERS</head>
+                  <q xml:lang="lat">HINC SPES AFFVLGET</q>
+                  <figDesc>blazon of the Worshipful Company of Innholders</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:16"/>
+            <p>
+               <figure>
+                  <head>THE FOVNDERS</head>
+                  <figDesc>blazon of the Worshipful Company of Founders</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE POVLTERS</head>
+                  <figDesc>blazon of the Worshipful Company of Poulters</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE EMBROIDERERS</head>
+                  <q xml:lang="lat">OMNIA DE SVPER</q>
+                  <figDesc>blazon of the Worshipful Company of Broderers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE COOKS</head>
+                  <q xml:lang="lat">VULNERATI NON VICTV</q>
+                  <figDesc>blazon of the Worshipful Company of Cooks</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:17"/>
+            <p>
+               <figure>
+                  <head>THE COOPERS</head>
+                  <q>LOVE AS BRETHREN</q>
+                  <figDesc>blazon of the Worshipful Company of Coopers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE BOWYERS</head>
+                  <figDesc>blazon of the Worshipful Company of Bowyers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE BRICKLAYERS</head>
+                  <q>IN GOD IS ALL OVR TRVST</q>
+                  <figDesc>blazon of the Worshipful Company of Bricklayers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE FLETCHERS</head>
+                  <figDesc>blazon of the Worshipful Company of Fletchers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:18"/>
+            <p>
+               <figure>
+                  <head>THE SMITHS</head>
+                  <q>BY HAMMER AND HAND ALL ARTS DOE STAND</q>
+                  <figDesc>blazon of the Worshipful Company of Blacksmiths</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE PLAISTERERS</head>
+                  <q>LET BROTHERLY LOVE CONTINVE</q>
+                  <figDesc>blazon of the Worshipful Company of Plaisterers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE IOYNERS</head>
+                  <figDesc>blazon of the Worshipful Company of Joiners</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE WEAVERS</head>
+                  <q>WEAVE TRVTH WITH TRVST</q>
+                  <figDesc>blazon of the Worshipful Company of Weavers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:19"/>
+            <p>
+               <figure>
+                  <head>THE FRVITERERS</head>
+                  <q xml:lang="lat">Arbor uitae Chriſtus fructus ꝑ: fidem guſtamus</q>
+                  <figDesc>blazon of the Worshipful Company of Fruiterers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE BOTTLEMAKERS &amp; HORNERS</head>
+                  <figDesc>blazon of the Worshipful Company of Bottlemakers and Horners</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE SCRIVENERS</head>
+                  <figDesc>blazon of the Worshipful Company of Scriveners</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE STATIONERS</head>
+                  <q xml:lang="lat">VERBUM DOMINI MANET IN AETERNUM</q>
+                  <figDesc>blazon of the Worshipful Company of Stationers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:20"/>
+            <p>
+               <figure>
+                  <head>THE MARBLERS</head>
+                  <q>GRINDE WELL</q>
+                  <figDesc>blazon of the Worshipful Company of Marblers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE FARRIERS</head>
+                  <q xml:lang="lat">VI ET VIRTVTE</q>
+                  <figDesc>blazon of the Worshipful Company of Farriers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE WOOLPACKERS</head>
+                  <figDesc>blazon of the Worshipful Company of Woolmen</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE PAVIORS</head>
+                  <figDesc>blazon of the Worshipful Company of Paviors</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:21"/>
+            <p>
+               <figure>
+                  <head>THE LORINORS</head>
+                  <figDesc>blazon of the Worshipful Company of Loriners</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE VPHOLDERS</head>
+                  <figDesc>blazon of the Worshipful Company of Upholders</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE WOODMONGERS</head>
+                  <q xml:lang="lat">VIS VNITA FORTIOR</q>
+                  <figDesc>blazon of the Worshipful Company of Fuellers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE TVRNERS</head>
+                  <q>BY FAITH I OBTAINE</q>
+                  <figDesc>blazon of the Worshipful Company of Turners</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:22"/>
+            <p>
+               <figure>
+                  <head>THE GLASIERS</head>
+                  <q xml:lang="lat">DA NOBIS LVCEM DOMINE</q>
+                  <figDesc>blazon of the Worshipful Company of Glaziers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE WATERMEN</head>
+                  <q>At Command of our Superiors</q>
+                  <figDesc>blazon of the Worshipful Company of Watermen</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE CLARKS</head>
+                  <q xml:lang="lat">VNITAS SOCIETATIS STABILITAS</q>
+                  <figDesc>blazon of the Worshipful Company of Parish Clerks</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE APOTHECARIES</head>
+                  <q xml:lang="lat">OPIFERQVE PER ORBEM DICOR</q>
+                  <figDesc>blazon of the Worshipful Company of Apothecaries</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:23"/>
+            <p>
+               <figure>
+                  <head>THE GLOVERS</head>
+                  <q xml:lang="lat">SIGILLU: CHIRO<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>EARIORU: LONDINI</q>
+                  <figDesc>blazon of the Worshipful Company of Glovers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE DISSTILLERS</head>
+                  <q>DROP AS RAINE DISTILL AS DEW</q>
+                  <figDesc>blazon of the Worshipful Company of Distillers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE SILKE THROWERS</head>
+                  <q>GOD IN HIS LEAST CREATURE</q>
+                  <figDesc>blazon of the Worshipful Company of Silk Throwers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE MVSICIANS</head>
+                  <figDesc>blazon of the Worshipful Company of Musicians</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:24"/>
+            <p>
+               <figure>
+                  <head>THE SILKMEN</head>
+                  <figDesc>blazon of the Worshipful Company of Silkmen</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE SHIPWRIGHTS</head>
+                  <figDesc>blazon of the Worshipful Company of Shipwrights</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE FELTMAKERS</head>
+                  <figDesc>blazon of the Worshipful Company of Feltmakers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE SOPEMAKERS</head>
+                  <q xml:lang="lat">DII REX<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> SECVNDENT</q>
+                  <figDesc>blazon of the Worshipful Company of Soapmakers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:25"/>
+            <p>
+               <figure>
+                  <head>THE ROYALL SOCIETY</head>
+                  <q xml:lang="lat">NVLLIVS IN VERBA</q>
+                  <figDesc>blazon of the Royal Society</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE ACADEMY OF Y<hi rend="sup">E</hi> MUSES</head>
+                  <q xml:lang="lat">NIHIL IN VITA MINERVA</q>
+                  <figDesc>blazon of the Academy of the Muses</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE ROYALL FISHING</head>
+                  <q xml:lang="lat">MESSIS AB ALTO</q>
+                  <figDesc>blazon of the Royal Fishing Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE MILITARY</head>
+                  <q xml:lang="lat">FLOREAT VIGEATQVE CORONA</q>
+                  <figDesc>blazon of the Military Society</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:26"/>
+            <p>
+               <figure>
+                  <head>THE MYNES ROYALL</head>
+                  <figDesc>blazon of the Society of Mines Royal</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE STARCHMAKERS</head>
+                  <figDesc>blazon of the Worshipful Company of Starchmakers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE TRADESMEN &amp; ARTIFICERS</head>
+                  <figDesc>blazon of the Worshipful Company of Tradesmen and Artificers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE GARDINERS</head>
+                  <q>In the <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>t of thy brow's shalt thou eat thy bread</q>
+                  <figDesc>blazon of the Worshipful Company of Gardeners</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:27"/>
+            <p>
+               <figure>
+                  <head>THE MINRALL &amp; BATTERY WORKERS</head>
+                  <figDesc>blazon of the Worshipful Company of Mineral and Battery Workers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE CLOCK MAKERS</head>
+                  <q xml:lang="lat">TEMPVS RERVM IMPERATOR</q>
+                  <figDesc>blazon of the Worshipful Company of Clockmakers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE TOBACCO PIPE MAKERS</head>
+                  <figDesc>blazon of the Worshipful Company of Tobacco Pipe Makers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE COMB MAKERS</head>
+                  <figDesc>blazon of the Worshipful Company of Combmakers</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:28"/>
+            <p>
+               <figure>
+                  <head>THE PHISICIANS</head>
+                  <figDesc>blazon of the Worshipful Company of Physicians</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>S<hi rend="sup">T</hi> BARTHOLOMEW'S HOSPITALL</head>
+                  <figDesc>blazon of Saint Bartholomew's Hospital</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>CHRISTS HOSPITALL</head>
+                  <figDesc>blazon of Christ's Hospital</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE HOSPITALL OF BETHLEM</head>
+                  <figDesc>blazon of Bethlem Hospital</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:29"/>
+            <p>
+               <figure>
+                  <head>MERCHANTS OF EAST-INDIA</head>
+                  <q xml:lang="lat">DEO DVCENTE NIL NOCET</q>
+                  <q xml:lang="lat">DEVS INDICAT</q>
+                  <figDesc>blazon of the East India Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>MERCHANTS OF LEVANT</head>
+                  <figDesc>blazon of the Levant (Turkey) Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>THE ROYALL AFFRICAN COMP:<hi rend="sup">ANY</hi>
+                  </head>
+                  <q xml:lang="lat">REGIO FLORET PATROCINIO COMMERCIVM COMMERCIOQVE REGNUM</q>
+                  <figDesc>blazon of the Royal African Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>MERCHANTS OF SPAINE</head>
+                  <figDesc>blazon of the Company of the Merchants of Spain</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:30"/>
+            <p>
+               <figure>
+                  <head>FRENCH MERCHANTS</head>
+                  <figDesc>blazon of the Company of French Merchants</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>MERCHANTS ADVENTVERS</head>
+                  <q xml:lang="frm">DIEV NOVS DONNE BONNE AVENTVRE</q>
+                  <figDesc>blazon of the Company of Merchants Adventurers</figDesc>
+               </figure>
+            </p>
+            <p>MERCHANTS OF Y<hi rend="sup">E</hi> STAPLE</p>
+            <p>
+               <figure>
+                  <q>GOD BE OVR FRIEND</q>
+                  <figDesc>blazon of the Company of Merchant Staplers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>MERCHANTS OF MVSCOVIA</head>
+                  <q>GOD BEE OVR GOOD GVIDE</q>
+                  <figDesc>blazon of the Muscovy Company</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:31"/>
+            <p>
+               <figure>
+                  <head>MERCHANTS OF Y<hi rend="sup">E</hi> EAST LAND</head>
+                  <q>DISPAIRE NOT</q>
+                  <figDesc>blazon of the Eastland Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>BERMOODAS COMPANY</head>
+                  <q xml:lang="lat">PERIISSEMVS NISI PERIISSEMVS</q>
+                  <figDesc>blazon of the Bermuda Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>TRINITY COMPANY</head>
+                  <q xml:lang="lat">TRINITAS IN VNITATE</q>
+                  <figDesc>blazon of the Trinity Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>MERCHANTS OF VIRGINIA</head>
+                  <q xml:lang="lat">EN DAY VIR<g ref="char:EOLhyphen"/>GINIA QVINTAM</q>
+                  <figDesc>blazon of the Virginia Company</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:100124:32"/>
+            <p>
+               <figure>
+                  <head>NEW FRENCH MERCH:<hi rend="sup">TS</hi> ADVE:<hi rend="sup">NTRS</hi>
+                  </head>
+                  <q xml:lang="lat">REDDITE CVIQVE SUVM</q>
+                  <figDesc>blazon of the New French Merchants Adventurers</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>NEWFOVND LAND</head>
+                  <figDesc>blazon of Newfoundland</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>WEST INDIA COMPANY</head>
+                  <figDesc>blazon of the Dutch West India Company</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>CANARY COMPANY</head>
+                  <figDesc>blazon of the Canary Company</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:100124:33"/>
+            <p>
+               <figure>
+                  <q xml:lang="lat">AR<g ref="char:EOLhyphen"/>MA PACIS FVL<g ref="char:EOLhyphen"/>CRA</q>
+                  <figDesc>blazon of the Honourable Artillery Company</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
